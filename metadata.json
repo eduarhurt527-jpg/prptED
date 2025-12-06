@@ -1,0 +1,7 @@
+{
+  "name": "PMBOK Intelligent Tutor",
+  "description": "Upload PMBOK content to generate interactive study suites with an AI Assistant that explains answers, enforces active recall, and tracks retention.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
